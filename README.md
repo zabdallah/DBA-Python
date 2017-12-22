@@ -17,7 +17,6 @@ DBA_DTW.DBAWarpingWindow()
 
 -------
 # Rersources: 
-=========
 
 Paper: http://francois-petitjean.com/Research/Petitjean2015-KAIS.pdf
 
