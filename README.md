@@ -15,6 +15,9 @@ DBA_DTW.DBAWarpingWindow()
 
 
 
+This is an official doc.
+
+
 -------
 # Rersources: 
 
